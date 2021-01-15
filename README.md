@@ -16,16 +16,24 @@ The main functions include:
 	- face++ API
 	- Paddlehub
 
+## Requirements
+```
+$ pip install -r requirements.txt
+```
+## Run
+```
+$ python login.py
+```
 ## Results Show（incomplete）
 
 |(●'◡'●)|Operation|Result|
 |---|---|----
-|1|Login Interface|<img src="https://github.com/leaving-voider/Digital-Image-Processing/blob/master/screenshots/Login.png" width = "300" height = "200" alt="" align=center />
-|2|Register Interface|<img src="https://github.com/leaving-voider/Digital-Image-Processing/blob/master/screenshots/register.png" width = "300" height = "200" alt="" align=center />
-|3|N Value|<img src="https://github.com/leaving-voider/Digital-Image-Processing/blob/master/screenshots/n_value.png" width = "300" height = "200" alt="" align=center />
-|4|Images Add|<img src="https://github.com/leaving-voider/Digital-Image-Processing/blob/master/screenshots/img_add.png" width = "300" height = "200" alt="" align=center />
-|5|RGB_histogram|<img src="https://github.com/leaving-voider/Digital-Image-Processing/blob/master/screenshots/RGB_histogram.png" width = "300" height = "200" alt="" align=center />
-|6|Median Filtering|<img src="https://github.com/leaving-voider/Digital-Image-Processing/blob/master/screenshots/median_filtering.png" width = "300" height = "200" alt="" align=center />
-|7|Logarithmic Grayscale Transformation|<img src="https://github.com/leaving-voider/Digital-Image-Processing/blob/master/screenshots/Logarithmic_gray_scale_transformation.png" width = "300" height = "200" alt="" align=center />
-|8|Sobel|<img src="https://github.com/leaving-voider/Digital-Image-Processing/blob/master/screenshots/Sobel.png" width = "300" height = "200" alt="" align=center />
-|9|Face Detection|<img src="https://github.com/leaving-voider/Digital-Image-Processing/blob/master/imgs_detection/example1.png" width = "300" height = "200" alt="" align=center />
+|<p align="center">1</p>|<p align="center">Login Interface(password is 123)</p>|<img src="https://github.com/leaving-voider/Digital-Image-Processing/blob/master/screenshots/Login.png" width = "300" height = "200" alt="" align=center />
+|<p align="center">2</p>|<p align="center">Register Interface</p>|<img src="https://github.com/leaving-voider/Digital-Image-Processing/blob/master/screenshots/register.png" width = "300" height = "200" alt="" align=center />
+|<p align="center">3</p>|<p align="center">N Value</p>|<img src="https://github.com/leaving-voider/Digital-Image-Processing/blob/master/screenshots/n_value.png" width = "300" height = "200" alt="" align=center />
+|<p align="center">4</p>|<p align="center">Images Add</p>|<img src="https://github.com/leaving-voider/Digital-Image-Processing/blob/master/screenshots/img_add.png" width = "300" height = "200" alt="" align=center />
+|<p align="center">5</p>|<p align="center">RGB_histogram</p>|<img src="https://github.com/leaving-voider/Digital-Image-Processing/blob/master/screenshots/RGB_histogram.png" width = "300" height = "200" alt="" align=center />
+|<p align="center">6</p>|<p align="center">Median Filtering</p>|<img src="https://github.com/leaving-voider/Digital-Image-Processing/blob/master/screenshots/median_filtering.png" width = "300" height = "200" alt="" align=center />
+|<p align="center">7</p>|<p align="center">Logarithmic Grayscale Transformation</p>|<img src="https://github.com/leaving-voider/Digital-Image-Processing/blob/master/screenshots/Logarithmic_gray_scale_transformation.png" width = "300" height = "200" alt="" align=center />
+|<p align="center">8</p>|<p align="center">Sobel</p>|<img src="https://github.com/leaving-voider/Digital-Image-Processing/blob/master/screenshots/Sobel.png" width = "300" height = "200" alt="" align=center />
+|<p align="center">9</p>|<p align="center">Face Detection</p>|<img src="https://github.com/leaving-voider/Digital-Image-Processing/blob/master/imgs_detection/example1.png" width = "300" height = "200" alt="" align=center />
