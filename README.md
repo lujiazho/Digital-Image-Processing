@@ -37,3 +37,9 @@ $ python login.py
 |<p align="center">7</p>|<p align="center">Logarithmic Grayscale Transformation</p>|<img src="https://github.com/leaving-voider/Digital-Image-Processing/blob/master/screenshots/Logarithmic_gray_scale_transformation.png" width = "300" height = "200" alt="" align=center />
 |<p align="center">8</p>|<p align="center">Sobel</p>|<img src="https://github.com/leaving-voider/Digital-Image-Processing/blob/master/screenshots/Sobel.png" width = "300" height = "200" alt="" align=center />
 |<p align="center">9</p>|<p align="center">Face Detection</p>|<img src="https://github.com/leaving-voider/Digital-Image-Processing/blob/master/imgs_detection/example1.png" width = "300" height = "200" alt="" align=center />
+
+## Notes
+The arcsoft face detection API need you to appy and then you can use. [Here](https://blog.csdn.net/weixin_42815846/article/details/106882614) is a tutorial to teach you how to do that.
+
+When you get your `APPID` and `FD_SDKKEY` successfully, you can replace the two lines below with them within the [hrFace.py](https://github.com/leaving-voider/Digital-Image-Processing/blob/master/face_detection/hrFace.py) file.
+![img](https://github.com/leaving-voider/Digital-Image-Processing/blob/master/screenshots/modifications.png)
